@@ -45,3 +45,12 @@
 **Link(s) to work**
 1. [Pig Latin Commit](https://github.com/RKRohk/learn_ruby/commit/a7e10364ea95b5423372bcd6b94b4d5891ec810a)
 2. [Book Class Commit](https://github.com/RKRohk/learn_ruby/commit/7bd2402298365eccd43c6642de89d652f69991a6)
+
+### Day 2: October 14,2019
+
+**Today's Progress**: Did 1 ruby exercies.
+
+**Thoughts** I finished the learning ruby basics and started with rails. Unfortunately I couldn't get so ahead as to actually start the project.
+
+**Link(s) to work**
+1. [Time class Commit](https://github.com/RKRohk/learn_ruby/commit/bb5af276b3eb0609c173fa4cc9d681206cc2860b)
