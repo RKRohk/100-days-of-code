@@ -54,3 +54,9 @@
 
 **Link(s) to work**
 1. [Time class Commit](https://github.com/RKRohk/learn_ruby/commit/bb5af276b3eb0609c173fa4cc9d681206cc2860b)
+
+### Day 3: October 15,2019
+
+**Today's Progress**: Worked on a rails project
+
+**Thoughts** I have nothing to show for today. I worked on a rails project but I just can't get it to work and I can't find any solutions on how to get it to work
