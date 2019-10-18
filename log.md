@@ -60,3 +60,12 @@
 **Today's Progress**: Worked on a rails project
 
 **Thoughts** I have nothing to show for today. I worked on a rails project but I just can't get it to work and I can't find any solutions on how to get it to work
+
+### Day 4: October 18,2019
+
+**Today's Progress**: Worked on the same rails project as before but got it to work
+
+**Thoughts** I had tests in college so, I couldn't sit down to code. I found out the solution to the problem I was facing. I was using rails version 6.0.0 instead of 5.x so, webpacker was automatically included in my project when I didn't need it.
+
+**Links(s) to work**
+1. [Rails Blog](https://github.com/RKRohk/RubyBlogger)
