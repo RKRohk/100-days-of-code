@@ -70,13 +70,14 @@
 **Links(s) to work**
 1. [Rails Blog](https://github.com/RKRohk/RubyBlogger)
 
-### Day 5: October 20,2019
+### Day 5: October 20, 2019
 
-**Today's Progress**: Form based workflow and Comments feature added in the rails project
+**Today's Progress**: Implemented Form based workflow and comments feature in the blog
 
+**Thoughts**: I am finally starting to understand some parts of how a rails application is made but I don't think that I can do anything without help from a guide right now. 
 **Link(s) to work**
-1. [Form based workflow commit](https://github.com/RKRohk/RubyBlogger/commit/80e6399b1e896f4f9959dd47eceaa9c87b145820)
-2. [Blog comments commit](https://github.com/RKRohk/RubyBlogger/commit/5801d18c74307e33d5e8749c4adccac7bf6816a7)
+1. [Form based workflow](https://github.com/RKRohk/RubyBlogger/commit/80e6399b1e896f4f9959dd47eceaa9c87b145820)
+2. [Comments Feature](https://github.com/RKRohk/RubyBlogger/commit/5801d18c74307e33d5e8749c4adccac7bf6816a7)
 
 ### Day 6: October 21,2019
 
