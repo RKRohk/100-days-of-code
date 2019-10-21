@@ -69,3 +69,20 @@
 
 **Links(s) to work**
 1. [Rails Blog](https://github.com/RKRohk/RubyBlogger)
+
+### Day 5: October 20,2019
+
+**Today's Progress**: Form based workflow and Comments feature added in the rails project
+
+**Link(s) to work**
+1. [Form based workflow commit](https://github.com/RKRohk/RubyBlogger/commit/80e6399b1e896f4f9959dd47eceaa9c87b145820)
+2. [Blog comments commit](https://github.com/RKRohk/RubyBlogger/commit/5801d18c74307e33d5e8749c4adccac7bf6816a7)
+
+### Day 6: October 21,2019
+
+**Today's Progress**: Completed Listing articles by tag in rails project
+
+**Thoughts** I can't understand most of what I am doing in this project. The instructions are cryptic. I think I need to create more projects to learn the basics of rails
+
+**Link(s) to work**
+1. [Listing articles by tag commit](https://github.com/RKRohk/RubyBlogger/commit/2a75dea4388882e819d23d554eea5540db2b7e77)
